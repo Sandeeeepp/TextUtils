@@ -48,6 +48,10 @@ function App() {
             path="/"
             element={textFormElement}
           />
+        <Route
+            path="/TextUtils/"
+            element={textFormElement}
+          />
           <Route
             path="/home"
             element={textFormElement}
